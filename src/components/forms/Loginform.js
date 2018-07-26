@@ -8,7 +8,7 @@ class Loginform extends Component {
           email: "praveensbj8@gmail.com",
           password: "abcd"
     },
-    loading: false,
+    loading: "false",
     errors : {}
   }
 
